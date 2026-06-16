@@ -7,6 +7,11 @@ FocusFlow is a full-stack task management and productivity application built usi
 The application helps users organize their work, study goals, and personal tasks through an intuitive Kanban-style interface. Users can create, manage, prioritize, track progress, and monitor deadlines for their tasks in a modern and responsive dashboard.
 
 ---
+🌐 Live Demo
+
+Frontend: https://focus-flow-task-manager-jet.vercel.app
+
+Backend API: https://focusflow-task-manager.onrender.com
 
 ## Features
 
